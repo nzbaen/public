@@ -12,3 +12,4 @@ while(n > 0):
     n = n // 10
 
 print("The reverse of the number",input_number,"is:",rev)
+

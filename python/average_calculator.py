@@ -13,3 +13,4 @@ for i in range(0,n):
 
 print("Average of elements in the list",round(avg,2))
 print("Average of elements in the list removing decimal and rounding the number",round(avg))
+

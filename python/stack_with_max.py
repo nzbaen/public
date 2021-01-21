@@ -58,4 +58,5 @@ if __name__ == '__main__':
         s.push(loop_n)
         print(s.mainStack)
         print(s.getMax())
-        loop_n = loop_n + 1 
+        loop_n = loop_n + 1
+ 
